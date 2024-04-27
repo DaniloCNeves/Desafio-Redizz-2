@@ -1,0 +1,15 @@
+li {
+    list-style: none;
+  }
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}
+
+nav{
+    width: 100vw;
+}
